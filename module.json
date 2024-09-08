@@ -1,12 +1,10 @@
 {
-  "id": "grape_juice-isometrics-pro",
-  "title": "Grape Juice Isometrics Pro",
-  "description": "The Isometric module for Foundry - Pro Version",
+  "id": "iso",
+  "title": "iso",
+  "description": "iso",
   "authors": [
     {
-      "name": "Grape_Juice",
-      "url": "https://www.patreon.com/foundry_grape_juice",
-      "discord": "grape_juice#2539"
+      "name": "anonymous",
     }
   ],
   "languages": [
